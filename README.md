@@ -19,9 +19,6 @@ Frontend Pods
 Backend Pods
  ↓
 Amazon RDS
-## 🏗 Architecture
-
-![AWS EKS Architecture](diagrams/architecture.png)
 
 ## Technologies
 
